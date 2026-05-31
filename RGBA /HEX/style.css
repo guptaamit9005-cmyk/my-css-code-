@@ -1,0 +1,21 @@
+/* Named Colors */
+background-color: red;
+background-color: blue;
+background-color: green;
+
+/* HEX */
+background-color: #FF0000;
+background-color: #00FF00;
+background-color: #0000FF;
+
+/* RGB */
+background-color: rgb(255, 0, 0);
+
+/* RGBA */
+background-color: rgba(255, 0, 0, 0.5);
+
+/* HSL */
+background-color: hsl(0, 100%, 50%);
+
+/* HSLA */
+background-color: hsla(0, 100%, 50%, 0.5);
